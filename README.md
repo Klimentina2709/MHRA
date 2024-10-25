@@ -50,7 +50,7 @@ The app should now be running on http://localhost:3000.
 
 ## Screenshot
 
-![MHRA Screenshot](img/screenshot.png)
+![MHRA Screenshot](/screenshot.png)
 
 ## Usage
 
