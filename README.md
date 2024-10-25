@@ -28,7 +28,7 @@ This project is a web application developed for the Macedonian Human Resources A
 - ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) - Utility-first CSS framework for styling.
 - ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-008FFF?style=for-the-badge&logo=framer&logoColor=white) - Motion design library for animations.
 - ![JSON Server](https://img.shields.io/badge/JSON%20Server-2D3748?style=for-the-badge&logo=json&logoColor=white) - Mock REST API for development.
-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) - For types.
 
 ## Installation
 
