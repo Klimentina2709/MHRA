@@ -11,6 +11,7 @@ This project is a web application developed for the Macedonian Human Resources A
 - [Usage](#usage)
 - [Project Status](#project-status)
 - [Acknowledgments](#acknowledgments)
+- [Contact](#contact)
 
 ## Features
 
@@ -66,3 +67,7 @@ The project is currently under development. Many features are not yet finalized 
 
 Special thanks to mentor Ognen Bendevski for guidance and support throughout the development process.
 Developed for the Macedonian Human Resources Association (MHRA).
+
+## Contact
+
+If you have any questions, feel free to contact me.
